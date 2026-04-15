@@ -1,0 +1,5 @@
+record(calc, "number"){
+    field(VAL, "0")
+    field(SCAN, "1 second")
+    field(CALC, "VAL<9?VAL+1:0")
+}
