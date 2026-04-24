@@ -12,6 +12,8 @@
 
 O.*
 
+*.tar.gz
+
 envPaths
 
 # Files handled by EPNix
@@ -36,3 +38,4 @@ compile_commands.json
 
 .direnv
 
+hardware-configuration.nix
